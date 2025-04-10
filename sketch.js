@@ -1,3 +1,7 @@
+// Projekt - Daniel, Dines, Valdemar
+//
+
+
 function setup() {
   createCanvas(400, 400);
 }
